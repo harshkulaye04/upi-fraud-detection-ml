@@ -32,7 +32,7 @@ upi-fraud-detection-ml/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/upi-fraud-detection-ml.git
+git clone https://github.com/harshkulaye04/upi-fraud-detection-ml.git
 cd upi-fraud-detection-ml
 ```
 
