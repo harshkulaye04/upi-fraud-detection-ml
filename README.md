@@ -62,7 +62,7 @@ Sensitive UPI identifiers and personal transaction information should not be pub
 
 ##Note
 
-Upload "dataset.csv" file onplace of "upi_transactions_100000"
+Upload "dataset.csv" file onplace of "upi_transactions_10000"
 
 ## Author
 HARSH KULAYE
